@@ -2,15 +2,24 @@
 
 # Signup Page
 
-<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/c9ab859c-a060-4f5b-bd86-e43cb766dbc8" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3c56c8a9-72f2-44f2-bc6a-e5128efadd3f" />
 
-* Signup successfully
 
-<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/b6390e8b-688f-4c97-91da-c37abab998fe" />
+* After Signup successfully(Login Page Shows)
 
-# Login Page
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/7d7877eb-65e1-4efe-88be-f1f252380d95" />
 
-<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/3351dfb6-8605-4ca3-ae7b-9214757bf188" />
 
-# There's error occur while logging , I will fix it tomorrow additionally implement the other functionalities.
+# Login Page Successfully
+
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/18bc0eda-8197-445e-ba6f-f7206a38ac93" />
+
+# Home Page
+
+<img width="1914" height="1636" alt="image" src="https://github.com/user-attachments/assets/0bff442b-e261-4218-9c4c-29c42b86457f" />
+
+# Product Details Page
+
+<img width="1920" height="1466" alt="image" src="https://github.com/user-attachments/assets/712598cd-234a-4cbb-8874-76f532362ef4" />
+
 
