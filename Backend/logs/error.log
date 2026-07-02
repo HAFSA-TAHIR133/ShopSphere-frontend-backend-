@@ -1,0 +1,20 @@
+{"level":"error","message":{"Error":"Connection terminated unexpectedly","Method":"POST","Time":"2026-07-01T10:35:02.803Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-01T10:35:02.803Z"}
+{"level":"error","message":{"Error":"Connection terminated unexpectedly","Method":"POST","Time":"2026-07-01T10:36:24.339Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-01T10:36:24.339Z"}
+{"level":"error","message":{"Error":"Connection terminated unexpectedly","Method":"POST","Time":"2026-07-01T10:37:25.695Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-01T10:37:25.695Z"}
+{"level":"error","message":{"Error":"jwt is not defined","Method":"POST","Time":"2026-07-01T10:39:12.228Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T10:39:12.229Z"}
+{"level":"error","message":{"Error":"notNull Violation: RefreshToken.expiresAt cannot be null","Method":"POST","Time":"2026-07-01T10:41:17.540Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T10:41:17.541Z"}
+{"level":"error","message":{"Error":"req is not defined","Method":"POST","Time":"2026-07-01T10:45:51.138Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T10:45:51.138Z"}
+{"level":"error","message":{"Error":"Cannot read properties of undefined (reading 'user-agent')","Method":"POST","Time":"2026-07-01T10:46:25.290Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T10:46:25.290Z"}
+{"level":"error","message":{"Error":"notNull Violation: User.firstName cannot be null","Method":"POST","Time":"2026-07-01T11:21:51.477Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-01T11:21:51.477Z"}
+{"level":"error","message":{"Error":"User not found","Method":"POST","Time":"2026-07-01T12:07:00.139Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T12:07:00.139Z"}
+{"level":"error","message":{"Error":"deviceName is not defined","Method":"POST","Time":"2026-07-01T12:07:45.794Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T12:07:45.794Z"}
+{"level":"error","message":{"Error":"deviceName is not defined","Method":"POST","Time":"2026-07-01T14:55:48.043Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-01T14:55:48.045Z"}
+{"level":"error","message":{"Error":"deviceName is not defined","Method":"POST","Time":"2026-07-02T04:52:57.990Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-02T04:52:57.990Z"}
+{"level":"error","message":{"Error":"res is not defined","Method":"POST","Time":"2026-07-02T04:57:25.873Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-02T04:57:25.874Z"}
+{"level":"error","message":{"Error":"refreshToken is not defined","Method":"POST","Time":"2026-07-02T04:59:21.293Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-02T04:59:21.294Z"}
+{"level":"error","message":{"Error":"Invalid role selected","Method":"POST","Time":"2026-07-02T05:24:43.731Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-02T05:24:43.732Z"}
+{"level":"error","message":{"Error":"Invalid role selected","Method":"POST","Time":"2026-07-02T05:25:47.411Z","URL":"/api/v1/shopSphere/signup"},"timestamp":"2026-07-02T05:25:47.411Z"}
+{"level":"error","message":{"Error":"email is not defined","Method":"POST","Time":"2026-07-02T06:40:10.815Z","URL":"/api/v1/shopSphere/verify-email"},"timestamp":"2026-07-02T06:40:10.816Z"}
+{"level":"error","message":{"Error":"email is not defined","Method":"POST","Time":"2026-07-02T06:44:54.172Z","URL":"/api/v1/shopSphere/verify-email"},"timestamp":"2026-07-02T06:44:54.173Z"}
+{"level":"error","message":{"Error":"Invalid credentials","Method":"POST","Time":"2026-07-02T06:49:35.790Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-02T06:49:35.791Z"}
+{"level":"error","message":{"Error":"Invalid credentials","Method":"POST","Time":"2026-07-02T06:54:46.071Z","URL":"/api/v1/shopSphere/login"},"timestamp":"2026-07-02T06:54:46.072Z"}
