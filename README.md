@@ -22,4 +22,9 @@
 
 <img width="1920" height="1466" alt="image" src="https://github.com/user-attachments/assets/712598cd-234a-4cbb-8874-76f532362ef4" />
 
+# Profile Page
+
+<img width="1920" height="1700" alt="image" src="https://github.com/user-attachments/assets/e5c3602f-78aa-43a1-b892-9023175ee101" />
+
+
 
